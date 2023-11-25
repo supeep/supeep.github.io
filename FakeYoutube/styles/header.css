@@ -39,6 +39,8 @@
   max-width: 500px;
   display:flex;
   align-items: center;
+  margin-left: 70px;
+  margin-right: 35px;
 }
 
 .search-bar{
