@@ -25,6 +25,15 @@ body {
     cursor: pointer;
 }
 
+.result {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.score {
+  margin-top: 25px;
+}
 
 .reset-score-button,
 .auto-play-button {
